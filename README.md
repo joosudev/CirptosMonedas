@@ -19,6 +19,7 @@
 
 
 ## Screenshots
+![ScreenShot_20240328175426](https://github.com/joosudev/CriptosMonedas/assets/47118243/971912ce-7218-4c23-8b79-ecb153dd0585)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 

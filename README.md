@@ -1,5 +1,5 @@
 # Cripto-monedas
-**Descipcion:**: Ofrece datos en tiempo real sobre las criptomonedas más populares del mercado, ayudándote a estar al tanto de los cambios de valor
+**Descipcion:** Ofrece datos en tiempo real sobre las criptomonedas más populares del mercado, ayudándote a estar al tanto de los cambios de valor.
 
 ## Utilización
 
